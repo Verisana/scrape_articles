@@ -2,7 +2,6 @@ import requests
 import time
 
 from collections import Counter
-from io import BytesIO
 from lxml import html
 from selenium import webdriver
 
